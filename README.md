@@ -70,7 +70,7 @@ then you will get all information of barcode in an authentified way
 ```bash
 
 # to get barcode in authenticate way
-$ localhost:3000/innovorder/open-food-facts/barcode/3760091728562
+$ localhost:3000/innovorder/open-food-facts/barcode/(wanted barcode)
 ```
 
 ## Test
