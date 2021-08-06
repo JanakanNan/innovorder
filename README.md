@@ -39,6 +39,14 @@ $ npm install
 $ npm run start
 ```
 
+## Documentation swagger
+
+```bash
+# Documentation of the API
+$ localhost:3000/documentation
+
+```
+
 ## Innovoder API
 
 ```bash
@@ -74,28 +82,20 @@ $ localhost:3000/innovorder/open-food-facts/barcode/(wanted barcode)
 ```
 
 ## Test
-
+i do the unit test on users.controller.spec
 ```bash
 # unit tests
-$ npm run test
+$ npm run test:watch
 
-# e2e tests
-$ npm run test:e2e
+#choose the letter 
+$ p
 
-# test coverage
-$ npm run test:cov
+#enter the name of the file
+$ users.controller
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+You will see the outcomming of the test
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - Janakan Nandakumaran
 
-## License
-
-Nest is [MIT licensed](LICENSE).
